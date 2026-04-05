@@ -5490,20 +5490,18 @@ print(sys.version_info)  # sys.version_info(major=3, minor=12, micro=0, ...)
 **[⬆ Back to Top](#table-of-contents)**
 
 <br>
-
----
+<br>
 
 <div align="center">
 
 ## 🎉 You've covered all 100 Python Interview Questions!
 
----
+<br>
 
 **If this repo helped you prepare, please give it a ⭐**
 
 [![Star this repo](https://img.shields.io/github/stars/sisi-tarak/python-interview-questions?style=social)](https://github.com/sisi-tarak/python-interview-questions)
 
----
 
 ### 📲 Follow Sisi for more tech interview prep content
 
