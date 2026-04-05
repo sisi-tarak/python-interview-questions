@@ -2,8 +2,6 @@
 
 > Click ⭐ if you like the project. Follow me [@sisi_tarakk](https://www.instagram.com/sisi_tarakk) on Instagram and [@sisitarak](https://www.linkedin.com/in/sisitarak) on LinkedIn for more.
 
----
-
 > Pull Requests are highly recommended and appreciated. 🙌
 
 ---
