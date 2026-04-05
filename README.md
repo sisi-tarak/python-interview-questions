@@ -5525,10 +5525,11 @@ Found a mistake, have a better explanation, or want to add more questions?
 | ------ | ---------- |
 | ✅ Live | [react-interview-questions](https://github.com/sisi-tarak/react-interview-questions) |
 | ✅ Live | [mern-interview-questions](https://github.com/sisi-tarak/mern-interview-questions) |
+| ✅ Live | [dsa-interview-questions](https://github.com/sisi-tarak/dsa-interview-questions) |
+| ✅ Live | [nodejs-interview-questions](https://github.com/sisi-tarak/nodejs-interview-questions) |
 | ✅ Live | [python-interview-questions](https://github.com/sisi-tarak/python-interview-questions) |
-| 🔜 Coming | nodejs-interview-questions |
-| 🔜 Coming | dsa-interview-questions |
-| 🔜 Coming | java-interview-questions |
+| ✅ Live | [java-interview-questions](https://github.com/sisi-tarak/java-interview-questions) |
+| ✅ Live | [dsa-interview-questions-python](https://github.com/sisi-tarak/dsa-interview-questions-python) |
 
 ⭐ **Star this repo to get notified when new repos drop!**
 
